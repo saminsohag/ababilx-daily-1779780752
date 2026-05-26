@@ -2,7 +2,7 @@
 
 Keep going. Every commit counts.
 
-**Word of the day:** resilience
+**Word of the day:** action
 
 _Last updated: 2026-05-26 07:32 UTC_
 
